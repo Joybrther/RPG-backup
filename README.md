@@ -3,4 +3,4 @@ Honestly just looking through RPG Companion App updates saw publish. I couldn't 
 https://Joybrther.github.io/RPG-backup
 
 Has Geppettin, Saurian, Grung, Origami Mage (Wizard) and The Great Fool (Warlock). 
-Going to add more though the app slowly. Mostly the Races and subclasses that are dndbeyonds website via books/pdf.
+Going to add more though the app slowly. Mostly the Races and subclasses that are on D&Dbeyonds website via books/pdf. I will list all the classes and subclasses when I get them all in.
