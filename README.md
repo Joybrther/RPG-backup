@@ -1,3 +1,5 @@
+Honestly just looking through RPG Companion App updates saw publish. I couldn't figure out a better name so just did RPG backup. Was gonna be test but assumed few would do that.
+
 https://Joybrther.github.io/RPG-backup
 
 Has Geppettin, Saurian, Grung, Origami Mage (Wizard) and The Great Fool (Warlock). 
